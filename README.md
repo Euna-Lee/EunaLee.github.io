@@ -1,2 +1,2 @@
-# EunaLee.github.io
+# Euna-Lee.github.io
 Personal Website
